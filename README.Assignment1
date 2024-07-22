@@ -1,4 +1,4 @@
-
+Dheekshana
 functionminimax(node,depth,alpha,beta,maximizingPlayer)is
 ifdepth==0ornodeisaterminalnodethen
 returnstaticevaluationofnode
